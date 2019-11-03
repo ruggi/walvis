@@ -1,4 +1,4 @@
-# Whale ![](static/icon.png)
+# Whale
 
 > A tiny menubar app for easily managing Docker containers.
 
