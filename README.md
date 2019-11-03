@@ -15,7 +15,7 @@ A tiny macOS menu bar app for easily managing Docker containers.
 
 ## Download
 
-**[Download](https://github.com/ruggi/whale/releases/latest/download/Whale.app.zip)** for MacOS from the [GitHub releases page](https://github.com/ruggi/whale/releases).
+**[Download](https://github.com/ruggi/whale/releases/latest/download/Whale.app.zip)** from the [GitHub releases page](https://github.com/ruggi/whale/releases).
 
 ## FAQ
 
