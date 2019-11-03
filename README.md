@@ -1,6 +1,6 @@
 # Whale
 
-> A tiny menubar app for easily managing Docker containers.
+A tiny macOS menu bar app for easily managing Docker containers.
 
 ![Whale](static/screen.png)
 
