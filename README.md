@@ -14,9 +14,24 @@ A tiny macOS menu bar app for easily managing Docker containers.
 - Group containers by prefix.
 - Dark mode support.
 
-## Download
+## Install
 
-**[Download](https://github.com/ruggi/walvis/releases/latest/download/Walvis.app.zip)** from the [GitHub releases page](https://github.com/ruggi/walvis/releases).
+### Homebrew
+
+```plain
+brew install ruggi/tap/walvis
+```
+
+or
+
+```plain
+brew tap ruggi/tap
+brew install walvis
+```
+
+### Manual
+
+You can grab the latest release from the [releases](https://github.com/ruggi/walvis/releases/latest) page.
 
 ## FAQ
 
